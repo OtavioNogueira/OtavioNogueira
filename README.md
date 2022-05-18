@@ -1,14 +1,15 @@
 # Olá Mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- Actual text -->
+### Ferramentas e Tecnologias
 
-You can find me on [![Twitter][1.2]][1]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+          
+##
 
-<!-- Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+          
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/otavioa445
 
 
