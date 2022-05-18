@@ -16,11 +16,11 @@ align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="nore
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otavionogueira" alt="otavionogueira" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nogueira_08" target="blank"><img src="https://img.shields.io/twitter/follow/nogueira_08?logo=twitter&style=for-the-badge" alt="nogueira_08" /></a> </p>
+<p align="left"> <a href="https://twitter.com/otavioa445" target="blank"><img src="https://img.shields.io/twitter/follow/otavioa445?logo=twitter&style=for-the-badge" alt="otavioa445" /></a> </p>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
-<a href="https://twitter.com/nogueira_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nogueira_08" height="30" width="40" /></a>
+<a href="https://twitter.com/otavioa445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otavioa445" height="30" width="40" /></a>
 <a href="https://instagram.com/_otavionogueira8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_otavionogueira8" height="30" width="40" /></a>
 </p>
 
