@@ -22,9 +22,7 @@ align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="nore
 <a href="https://instagram.com/_otavionogueira8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_otavionogueira8" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavionogueira&show_icons=true&locale=en&layout=compact" alt="otavionogueira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otavionogueira&show_icons=true&locale=en" alt="otavionogueira" width=50%/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otavionogueira&show_icons=true&locale=en" alt="otavionogueira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otavionogueira&" alt="otavionogueira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavionogueira&show_icons=true&locale=en&layout=compact" alt="otavionogueira" width=50% /></p>
 
