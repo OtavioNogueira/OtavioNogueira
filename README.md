@@ -13,7 +13,7 @@
   
 ## 
  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otavionogueira&show_icons=true&locale=en" alt="otavionogueira" width=43%/>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otavionogueira&show_icons=true&locale=en" alt="otavionogueira" width=42%/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavionogueira&show_icons=true&locale=en&layout=compact" alt="otavionogueira"/></p>
 
 ##
