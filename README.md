@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Otávio Nogueira</h1>
 <h3 align="center">🖥️ Técnico em Informática - IFTC</h3>
-<h3 align="center">📚 Estudante de Sistemas de Informação - Unis</h3>
+<h3 align="center">📚 Estudante de Sistemas de Informação</h3>
 
 ##
 
