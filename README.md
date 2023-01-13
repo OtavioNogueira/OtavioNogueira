@@ -2,8 +2,6 @@
 <h3 align="center">🖥️ Técnico em Informática - IFTC 
 📚 Estudante de Sistemas de Informação</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otavionogueira" alt="otavionogueira" /></a> </p>
-
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/_otavionogueira8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_otavionogueira8" height="30" width="40" /></a>
