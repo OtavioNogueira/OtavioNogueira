@@ -4,26 +4,26 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <!-- ====== Badges (shields.io) ====== -->
-<!-- ====== SVG icons via jsDelivr (Simple Icons) ====== -->
+<!-- ====== Ícones coloridos (Devicon) ====== -->
 <p align="center">
-  <a href="https://www.figma.com" target="_blank" rel="noopener" title="Figma">
-    <img alt="Figma" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" width="40" height="40" />
+  <a href="https://www.figma.com" target="_blank" title="Figma">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noopener" title="Python">
-    <img alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40" height="40" />
+  <a href="https://www.python.org" target="_blank" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener" title="TypeScript">
-    <img alt="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" width="40" height="40" />
+  <a href="https://www.typescriptlang.org" target="_blank" title="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript">
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40" height="40" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener" title="Photoshop">
-    <img alt="Photoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobephotoshop.svg" width="40" height="40" />
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" title="Photoshop">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
   </a>
 </p>
 
