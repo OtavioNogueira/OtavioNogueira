@@ -4,21 +4,26 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <!-- ====== Badges (shields.io) ====== -->
+<!-- ====== SVG icons via jsDelivr (Simple Icons) ====== -->
 <p align="center">
-  <a href="https://www.figma.com" target="_blank" rel="noopener">
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <a href="https://www.figma.com" target="_blank" rel="noopener" title="Figma">
+    <img alt="Figma" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" width="40" height="40" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noopener" title="Python">
+    <img alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40" height="40" />
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  &nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener" title="TypeScript">
+    <img alt="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  &nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript">
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40" height="40" />
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener">
-    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  &nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener" title="Photoshop">
+    <img alt="Photoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobephotoshop.svg" width="40" height="40" />
   </a>
 </p>
 
